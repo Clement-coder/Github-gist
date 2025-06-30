@@ -1,5 +1,5 @@
-let example = [1,6,2,4,5,2]
-let output = []
+let example = [3,6,9,4,5,2]
+let output = {}
 let number = example[0]
 
 example.forEach(num => {
