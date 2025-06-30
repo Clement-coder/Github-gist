@@ -1,0 +1,6 @@
+Given an array of numbers, find the most occurred number, and how many times it occurs.
+
+Example: [1, 2, 2, 4, 5, 2].
+Output:
+Number: 2
+Occurence: 3
